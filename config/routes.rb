@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'hihihi/home'
+
+  get 'hihihi/help'
+
+  get 'haha_hehe/home'
+
+  get 'haha_hehe/help'
+
   get 'static_pages/home'
 
   get 'static_pages/help'
